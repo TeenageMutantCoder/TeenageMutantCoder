@@ -17,7 +17,7 @@ I am working on learning design patterns and full-stack/cross-platform developme
 - Connect with me on LinkedIn [![LinkedIn: Stevon Wright](https://img.shields.io/badge/-Stevon_Wright-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stevon-wright/)](https://www.linkedin.com/in/stevon-wright/)
 - Email me at [stevon.wright.business@gmail.com](mailto:stevon.wright.business@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeenageMutantCoder&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeenageMutantCoder&show_icons=true&include_all_commits=true))](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenageMutantCoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
