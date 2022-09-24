@@ -4,7 +4,7 @@ I am a software developer who is always looking to improve his skills. I primari
 
 ### What I am currently working on :watch:
 
-- :computer: My [portfolio website](https://stevon-wright.netlify.app/). Critiques and advice are appreciated.
+- :computer: Building a [social media web app](https://github.com/TeenageMutantCoder/sw-social-app) as a learning opportunity and portfolio project.
 - :thinking: Thinking of projects (preferably full-stack) that I can make that are genuinely useful to myself and/or others.
 - :briefcase: Networking with other professionals on LinkedIn.
 
